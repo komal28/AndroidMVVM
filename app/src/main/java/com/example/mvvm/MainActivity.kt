@@ -1,6 +1,5 @@
 package com.example.mvvm
 
-import android.health.connect.datatypes.units.Length
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
