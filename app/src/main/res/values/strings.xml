@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MVVM</string>
+    <string name="hello_world_welcome_to_mvvm">Hello World! Welcome to MVVM</string>
 </resources>
